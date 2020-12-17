@@ -1,0 +1,13 @@
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\bin\Debug\netcoreapp3.1\RestarauntManagement.exe
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\bin\Debug\netcoreapp3.1\RestarauntManagement.deps.json
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\bin\Debug\netcoreapp3.1\RestarauntManagement.runtimeconfig.json
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\bin\Debug\netcoreapp3.1\RestarauntManagement.runtimeconfig.dev.json
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\bin\Debug\netcoreapp3.1\RestarauntManagement.dll
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\bin\Debug\netcoreapp3.1\RestarauntManagement.pdb
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\obj\Debug\netcoreapp3.1\RestarauntManagement.csprojAssemblyReference.cache
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\obj\Debug\netcoreapp3.1\RestarauntManagement.AssemblyInfoInputs.cache
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\obj\Debug\netcoreapp3.1\RestarauntManagement.AssemblyInfo.cs
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\obj\Debug\netcoreapp3.1\RestarauntManagement.csproj.CoreCompileInputs.cache
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\obj\Debug\netcoreapp3.1\RestarauntManagement.dll
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\obj\Debug\netcoreapp3.1\RestarauntManagement.pdb
+C:\Users\Madina Saulenbekova\source\repos\RestarauntManagement\RestarauntManagement\obj\Debug\netcoreapp3.1\RestarauntManagement.genruntimeconfig.cache
