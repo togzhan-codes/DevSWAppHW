@@ -6,3 +6,4 @@ Below the Use-Case, Class and Sequence diagrams are provided.
 ![Screenshot](UML-use-case.png)
 ![Screenshot](UML-class.png)
 ![Screenshot](UML-sequence-1.png)
+![Screenshot](UML-sequence-2.png)
